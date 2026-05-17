@@ -7,7 +7,7 @@
 - **Recommendations**: Implement call back policies, enforce MFA with passkeys, and run quarterly training using real AI-generated examples. A simple "safe word" system can block most impersonation attempts.
 - **Audience**: Security teams, IT managers, and business leaders in West Africa who need actionable, low-budget defenses.
 
-**Full Report**: [report.pdf](28c149593d0bd417462806a51080d27a41285771)  
+**Full Report**: [report.pdf](https://github.com/Threesixteen316/threat-intel-ai-social-engineering)
 **Author**: Kurutsi Manasseh  
 **LinkedIn**: www.linkedin.com/in/kurutsi-manasseh-12018a207
 **Date**: 16 May 16, 2026
