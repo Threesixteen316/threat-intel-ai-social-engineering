@@ -7,7 +7,7 @@
 - **Recommendations**: Implement call back policies, enforce MFA with passkeys, and run quarterly training using real AI-generated examples. A simple "safe word" system can block most impersonation attempts.
 - **Audience**: Security teams, IT managers, and business leaders in West Africa who need actionable, low-budget defenses.
 
-**Full Report**: [report.pdf](./C:\Users\Kurutsi J Manasseh\OneDrive\Documents\AI_Social_Engineering_CTI_Report_Kurutsi_Manasseh.pdf)  
+**Full Report**: **: [./C:\Users\Kurutsi J Manasseh\OneDrive\Documents\AI_Social_Engineering_CTI_Report_Kurutsi_Manasseh.pdf](./ ./C:\Users\Kurutsi J Manasseh\OneDrive\Documents\AI_Social_Engineering_CTI_Report_Kurutsi_Manasseh.pdf)  
 **Author**: Kurutsi Manasseh  
 **LinkedIn**: www.linkedin.com/in/kurutsi-manasseh-12018a207
 **Date**: 16 May 16, 2026
